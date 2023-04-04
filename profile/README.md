@@ -7,5 +7,5 @@ The innovative Research Support Facility is part of a £23 million investment by
 **Here's how to get started:**
 
 - 👩‍💻 Check out the [webpage](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility).
-- 🍿 Join our upcoming [Open Invitaions Seminars](https://www.turing.ac.uk/events/rsf-monthly-seminars)
-- 📚 See available materials/workshops on the [Zenodo](https://zenodo.org/communities/ai-mltc-m/?page=1&size=20).
+- 🍿 Join our upcoming [Open Invitation Seminars](https://www.turing.ac.uk/events/rsf-monthly-seminars)
+- 📚 See available materials/workshops on our [Zenodo community](https://zenodo.org/communities/ai-mltc-m/?page=1&size=20).
