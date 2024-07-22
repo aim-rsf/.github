@@ -1,4 +1,5 @@
-![AIMRSF](https://zenodo.org/api/iiif/record:8082554:AIM-RSF_Logo-with-text_Large.png/full/!800,800/0/default.png)
+
+![AIM-RSF_Logo-with-text_Large](https://github.com/user-attachments/assets/d841a114-523a-4c6a-89c6-1de62d49a349)
 
 ## Welcome to AI for multiple long-term conditions: Research Support Facility!
 
